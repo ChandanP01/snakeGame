@@ -6,7 +6,7 @@
 }
 
 .container{
-    background-image:url('/img/bg.jpg');
+    background-image:url('./img/bg.jpg');
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
